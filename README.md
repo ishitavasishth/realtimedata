@@ -19,10 +19,15 @@ Submission Timestamp
 Username
 
 **#Key SQL Concepts Covered**
+
 **Aggregation:** Using COUNT, SUM, AVG to aggregate data.
+
 **Date Functions:** Using EXTRACT() and TO_CHAR() for manipulating dates.
+
 **Conditional Aggregation:** Using CASE WHEN to handle positive and negative submissions.
+
 **Ranking:** Using DENSE_RANK() to rank users based on their performance.
+
 **Group By:** Aggregating results by groups (e.g., by user, by day, by week).
 
 
